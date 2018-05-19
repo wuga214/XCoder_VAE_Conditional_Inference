@@ -1,0 +1,2 @@
+model_checkpoint_path: "generator.tensorflow"
+all_model_checkpoint_paths: "generator.tensorflow"
