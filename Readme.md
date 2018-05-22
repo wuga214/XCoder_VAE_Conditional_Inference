@@ -2,6 +2,9 @@ Conditional Inference in Pre-trained Variational Autoencoders via Cross-coding
 ===
 Ipython Notebooks for demo purpose
 
+# Paper
+[arXiv](https://arxiv.org/abs/1805.07785)
+
 # Contents
 1. Planar Normalizing Flow Test Code(Reproduce the original paper)
 2. Nonlinear distribution caputuring ability of XCoders
@@ -22,7 +25,7 @@ Ipython Notebooks for demo purpose
 @ARTICLE {wuga18,
     author  = "Ga Wu, Justin Domke, Scott Sanner",
     title   = "Conditional Inference in Pre-trained Variational Autoencoders via Cross-coding",
-    journal = "arXiv",
+    journal = "arXiv: 1805.07785",
     year    = "2018"
 }
 ```
