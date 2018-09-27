@@ -12,6 +12,11 @@ Ipython Notebooks for demo purpose
 4. Example: Anime faces conditional inference
 5. Example: CelebA faces conditional inference
 
+# Requirement
+1. Tensorflow 1.4
+2. Tensorlayer 1.8.3
+We noticed later version of tensorflow and tensorlayer are not backward compatible.
+
 # Pretrained Models
 [MNIST](https://github.com/kvfrans/variational-autoencoder)
 [Anime](https://github.com/wuga214/IMPLEMENTATION_Variational-Auto-Encoder)
