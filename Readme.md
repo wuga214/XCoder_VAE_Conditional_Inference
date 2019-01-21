@@ -1,4 +1,4 @@
-Conditional Inference in Pre-trained Variational Autoencoders via Cross-coding
+Conditional Inference in Pre-trained Variational Autoencoders via Prior Networks
 ===
 Ipython Notebooks for demo purpose
 
@@ -24,13 +24,3 @@ We noticed later version of tensorflow and tensorlayer are not backward compatib
 
 # Convergence Demo
 ![MNIST DVAE](canvas.gif)
-
-# Citation
-```
-@ARTICLE {wuga18,
-    author  = "Ga Wu, Justin Domke, Scott Sanner",
-    title   = "Conditional Inference in Pre-trained Variational Autoencoders via Cross-coding",
-    journal = "arXiv: 1805.07785",
-    year    = "2018"
-}
-```
